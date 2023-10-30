@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "your friend"
+    },
+    {
+      "name": "your name"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "your name",
+      "timestamp_ms": 1609612309159,
+      "content": "hello"
+    },
+    {
+      "sender_name": "your friend",
+      "timestamp_ms": 1609611884703,
+      "content": "hello! how are you?"
+    },
+    {
+      "sender_name": "your name",
+      "timestamp_ms": 1609590633978,
+      "content": "Fine, and you?"
+    },
+    
+  ],
+  "title": "your friend",
+  "is_still_participant": true,
+  "thread_path": "inbox/your_friend",
+  "magic_words": [
+    
+  ]
+}
